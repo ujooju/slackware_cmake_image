@@ -1,1 +1,1 @@
-# slackware_cmake_image
+qq
