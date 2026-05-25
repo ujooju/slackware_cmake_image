@@ -1,4 +1,4 @@
-## Docker image based on Slackware
+## Docker image with ГОСТ git based on Slackware
 
 Ready for CI/CD and fully compatible with ГОСТ ciphering.
 
@@ -19,9 +19,9 @@ __Components installed:__
 
 go to the slackware_cmake_image directory.
 
-`docker build -t any_name .`
+`docker build -t <any_name> .`
 
-`docker run -it any_name`
+`docker run -it <any_name>`
 
 ### If you want to work wtih git server running with TLS1.2, execute the next command: 
 
