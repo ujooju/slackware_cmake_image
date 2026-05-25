@@ -1,5 +1,7 @@
 ## Docker image with ГОСТ git based on Slackware
 
+ГОСТ git = GOST git. GOST ciphering = russian national cryptography standard.
+
 Ready for CI/CD and fully compatible with ГОСТ ciphering.
 
 __Components installed:__
@@ -34,3 +36,7 @@ _may be needed to work with ГОСТ ciphering_
 __highly not recommended__
 
 `git config --global http.sslverify false`
+
+
+
+GOST git docker image.
